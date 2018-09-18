@@ -33,7 +33,8 @@
     "type": "library",
     "require": {
         "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "~6"
+        "guzzlehttp/guzzle": "~6",
+        "avalara/avataxclient": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "5.7"
